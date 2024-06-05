@@ -6,4 +6,6 @@
 ## Git Status para visualizar as modificações. 
 ## Git Add: adicionar as modificações para a minha área de stage. 
 
-# Git Pull
+## Git Pull
+
+## git fetch
